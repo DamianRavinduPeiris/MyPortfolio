@@ -17,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -35,6 +36,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "D:/Semester 2/Internet Technologies/Internet Technologies - Assignment 2/assests/videos",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -61,7 +63,9 @@
       <workItem from="1678112339020" duration="710000" />
       <workItem from="1678118210908" duration="98000" />
       <workItem from="1678283496045" duration="13387000" />
-      <workItem from="1678341861085" duration="13032000" />
+      <workItem from="1678341861085" duration="13453000" />
+      <workItem from="1678377399457" duration="319000" />
+      <workItem from="1678377829002" duration="1549000" />
     </task>
     <servers />
   </component>
