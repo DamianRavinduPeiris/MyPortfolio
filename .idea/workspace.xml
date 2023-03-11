@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67b7de60-c74a-42a6-8ef8-4910f366741e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Internet Technologies - Assignment 2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Internet Technologies - Assignment 2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Internet Technologies - Assignment 2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Internet Technologies - Assignment 2/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +34,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Semester 2/Internet Technologies/Internet Technologies - Assignment 2/assests/videos",
+    "last_opened_file_path": "D:/My Projects/Data Fetching - Hibernate",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -64,7 +64,8 @@
       <workItem from="1678283496045" duration="13387000" />
       <workItem from="1678341861085" duration="13453000" />
       <workItem from="1678377399457" duration="319000" />
-      <workItem from="1678377829002" duration="2254000" />
+      <workItem from="1678377829002" duration="2931000" />
+      <workItem from="1678423834947" duration="172000" />
     </task>
     <servers />
   </component>
